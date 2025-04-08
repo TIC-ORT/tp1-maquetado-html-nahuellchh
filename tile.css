@@ -1,0 +1,23 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.cubo {
+    width: 100vw;     /* ancho */
+    height: 15vh;    /* alto */
+    background-color: blue; /* color del cuadrado */
+  }
+  .cubo2 {
+    width: 100%;     /* ancho */
+    height: 30%;    /* alto */
+    background-color: lightblue; /* color del cuadrado */
+  }
+  .cubo3 {
+    width: 10%;
+    height: 20%;
+    background: black;
+    margin-left: 50px; /* lo empuja a la derecha */
+    margin-top: 1px;  /* lo empuja hacia abajo */
+  }
